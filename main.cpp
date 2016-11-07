@@ -41,6 +41,7 @@ int main(int argc, char** argv) {
     
     cout << endl << c.getOwner().getFirstName();
     c.printCar();
+    p.printME();
     
     //system("read");
     
